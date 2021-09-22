@@ -1,0 +1,8 @@
+Andres Vargas <andnovar@gmail.com>
+Armin Sebastian <dessant@users.noreply.github.com>
+Jonatan Olofsson <jonatan.olofsson@gmail.com>
+Matthew Einhorn <moiein2000@gmail.com>
+Stijn De Weirdt <stijn.deweird@ugent.be>
+Graham Kanarek <graykanarek@gmail.com>
+Bill Janssen <janssen@parc.com>
+Adam Streck <adam.streck@gmail.com>
